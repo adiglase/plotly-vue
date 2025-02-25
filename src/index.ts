@@ -1,0 +1,1 @@
+export { default as PlotlyVue } from './components/VPlotly.vue'
