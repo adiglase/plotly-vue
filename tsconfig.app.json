@@ -15,6 +15,6 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"],
+  "include": ["lib/**/*.ts", "lib/**/*.tsx", "lib/**/*.vue"],
   "exclude": ["node_modules", "dist"]
 }
